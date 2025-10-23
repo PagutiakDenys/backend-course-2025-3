@@ -11,5 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "commander": "^14.0.1"
-  }
+  },
+  "devDependencies": {}
 }
