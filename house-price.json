@@ -542,7 +542,6 @@
 {"price":"1820000","area":"3000","bedrooms":"2","bathrooms":"1","stories":"1","mainroad":"yes","guestroom":"no","basement":"yes","hotwaterheating":"no","airconditioning":"no","parking":"2","prefarea":"no","furnishingstatus":"unfurnished"},
 {"price":"1767150","area":"2400","bedrooms":"3","bathrooms":"1","stories":"1","mainroad":"no","guestroom":"no","basement":"no","hotwaterheating":"no","airconditioning":"no","parking":"0","prefarea":"no","furnishingstatus":"semi-furnished"},
 {"price":"1750000","area":"3620","bedrooms":"2","bathrooms":"1","stories":"1","mainroad":"yes","guestroom":"no","basement":"no","hotwaterheating":"no","airconditioning":"no","parking":"0","prefarea":"no","furnishingstatus":"unfurnished"},
-{"price":"1750000","area":"2910","bedrooms":"3","bathrooms":"1","stories":"1","mainroad":"no","guestroom":"no","basement":"no","hotwaterheating":"no","airconditioning":"no","parking":"0","prefarea":"no","furnishingstatus":"furnished"},
-{"price":"1750000","area":"3850","bedrooms":"3","bathrooms":"1","stories":"2","mainroad":"yes","guestroom":"no","basement":"no","hotwaterheating":"no","airconditioning":"no","parking":"0","prefarea":"no","furnishingstatus":"unfurnished"},
+{"price":"1750000","area":"2910","bedrooms":"3","bathrooms":"1","stories":"1","mainroad":"no","guestroom":"no","basement":"no","hotwaterheating":"no","airconditioning":"no","parking":"0","prefarea":"no","furnishingstatus":"furnished"}
 
 ]

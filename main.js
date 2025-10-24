@@ -8,7 +8,9 @@ const program = new Command();
 program
   .option('-i, --input <file>', 'Input JSON file')
   .option('-o, --output <file>', 'Output file')
-  .option('-d, --display', 'Display result in console');
+  .option('-d, --display', 'Display result in console')
+  .option('-f, --furnished', 'show only houses with furniture')
+  .option('-p, --price', 'show only houses with a price lower than the specified one');
 
 program.parse(process.argv);
 
